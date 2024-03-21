@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLargestNumberLibrary", "FindLargestNumberLibrary\FindLargestNumberLibrary.csproj", "{6E189C1A-A0E2-426C-A1DE-AE3543378F6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLargestNumber", "FindLargestNumber\FindLargestNumber.csproj", "{B388272D-4510-4264-9823-ABFE710570D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E189C1A-A0E2-426C-A1DE-AE3543378F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E189C1A-A0E2-426C-A1DE-AE3543378F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E189C1A-A0E2-426C-A1DE-AE3543378F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E189C1A-A0E2-426C-A1DE-AE3543378F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B388272D-4510-4264-9823-ABFE710570D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B388272D-4510-4264-9823-ABFE710570D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B388272D-4510-4264-9823-ABFE710570D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B388272D-4510-4264-9823-ABFE710570D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D2F9C64-D9FE-4028-8EC6-29CBB3CF0FF1}
+	EndGlobalSection
+EndGlobal
